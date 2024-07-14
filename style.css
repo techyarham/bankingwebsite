@@ -1,0 +1,255 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#main{
+    background-image: url(./architecture-bird-s-eye-view-buildings-2096698\ \(1\).jpg) ;
+            background-repeat:no-repeat;
+            height: 600px;
+            width: auto;
+            background-size: cover;
+            align-items: center;
+            justify-content: center;
+            display:flex;
+            background-blend-mode: multiply;
+            background-color: rgba(0, 0, 0, 0.5);
+}
+li{
+    list-style: none; 
+    border-radius: 10px;
+    border: #333333 solid;  
+    background-color: #333333;
+    height: 20px; 
+    margin: 20px;
+    padding:5px;
+    align-self: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+ul{
+    display: flex;
+}
+nav{
+    background-color:#333333;
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: sticky;
+    top: 0%;
+}
+#main_heading{
+    color: #FEFEFE;
+    padding: 20px;
+    text-align: center;
+    align-self: center;
+    font-size: 30px;
+}
+#sky_text{
+    color: #FEFEFE;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 60px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#top_para{
+    text-align: center;
+    color: #FEFEFE;
+    font-size: 20px;
+    padding-top: 20px;
+}
+#content{
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+#buttom{
+    background-color:rgb(140, 233, 47);
+    border: rgb(140, 233, 47) solid;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 30px;
+    
+}
+#what{
+    background-color: #FEFEFE
+}
+#what_head{
+justify-content: center;
+display: flex;
+text-align: center;
+}
+.t_p{
+    color: rgb(140, 233, 47);
+}
+#wwd{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.logo{
+    background-color: rgb(140, 233, 47);
+    height:50%;
+    width: 50%;
+    border:rgb(140, 233, 47) solid; 
+    border-radius: 100%;
+    padding: 5px;
+}
+#bank{
+display: flex;
+width: 33.3%;
+margin-left: 10px;
+}
+#what_logo{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.logo_text{
+margin-left:10px;
+}
+#book{
+    display: flex;
+    width: 33.3%;
+}
+#pencil{
+    display: flex;
+    width: 33.3%;
+    margin-bottom: 35px;
+}
+h3{
+    font-size: 30px;
+}
+#main_2{
+    margin-top: 40px;
+    display: flex;
+}
+#people{
+    width: 50%;
+    height: auto;
+   
+}
+#people_pic{
+    width: 100%;
+    height: 100%;
+}
+#who{
+    background-color:#333333;
+    width: 50%;
+    padding: 20px; 
+}
+#w_w_a{
+font-size: 45px;
+}
+#w_w_a_text{
+font-size: 20px;
+color: #FEFEFE;
+}
+#o_t{
+    font-size: 30px;
+    color: #FEFEFE;
+}
+h5{
+    color: #FEFEFE;
+    font-size: 15px;
+    font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.role{
+    font-size:18px; 
+}
+#head_3{
+display: flex;
+justify-content: center;
+font-size: 30px;
+}
+#clients_logo{
+    display: flex;
+    justify-content: space-between;
+}
+.c_l{
+    width: 10%;
+
+}
+#contact{
+    background-color:rgb(140, 233, 47);
+     
+}
+#c_u{
+color: #FEFEFE;
+font-size: 30px;
+margin: 20px;
+
+}
+.c_u_p{
+color: #FEFEFE;
+margin:5px 30px;
+}
+.inp{
+    border: none;
+    height: 30px;
+    width: 50%;
+    border-radius: 20px;
+    margin: 5px 20px;
+    
+}
+#c_p{
+    color: #FEFEFE; 
+    margin:20px 20px; 
+    font-size: 20px;
+}
+#button2{
+width: 150px;
+height: 50px;
+color:#FEFEFE;
+background-color: #333333;
+border-radius: 20px;
+font-size: 25px;
+text-align: center;
+margin: 10px 19%;
+}
+footer{
+    background-color: #333333;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    color: #FEFEFE;
+    align-items: center;
+}
+li:hover{
+    background-color: rgb(140, 233, 47);
+}
+#buttom:hover{
+   background-color:rgb(66, 116, 16);
+    border: rgb(66, 116, 16) solid;
+    
+}
+#book_png{
+    height: 23px;
+    width: auto;
+    align-self: center;
+    margin-top: px;
+}
+#we_are{
+    color: #FEFEFE
+}
+p{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+input:hover{
+border: gray 2px solid;
+}
